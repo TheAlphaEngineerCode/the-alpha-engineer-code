@@ -25,7 +25,7 @@ My work sits at the intersection of product engineering, automation, and securit
 | **Security & quality** | secure code review, SBOMs, dependency evidence, automated tests |
 | **Delivery** | Docker, CI/CD, reproducible environments |
 
-## Featured project
+## Featured work
 
 ### [ProofForge](https://github.com/TheAlphaEngineerCode/proofforge) — autonomous engineering with verifiable changes
 
@@ -44,6 +44,14 @@ Change / Pull Request
         ├── Explainable risk score
         └── Policy verdict + verifiable manifest
 ```
+
+### More open-source projects
+
+| Project | What it explores |
+| --- | --- |
+| [AccessForge](https://github.com/TheAlphaEngineerCode/accessforge) | Policy-driven access governance with auditable decisions |
+| [Alpha Graph Code](https://github.com/TheAlphaEngineerCode/alpha-graph-code) | A compiler and visual IDE for deterministic AI workflows |
+| [The Alpha Cloud](https://github.com/TheAlphaEngineerCode/the-alpha-cloud) | An open-source cloud control plane built around evidence, approvals, and simulation |
 
 ## Connect
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="William Oliveira — software engineer building trustworthy systems" />
+  <img src="./assets/profile-header.svg" width="100%" alt="William Oliveira — software and AI engineer building trustworthy systems" />
 </p>
 
 <p align="center">

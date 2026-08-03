@@ -16,7 +16,7 @@
 
 ## Engineering software people can trust
 
-I am a software engineer focused on **developer infrastructure, application security, AI systems, and automation**.
+I am a software and AI engineer focused on **developer infrastructure, application security, AI systems, and automation**.
 
 My work turns complex operations into explicit, testable, and auditable systems. I care about what happens outside the happy path: deterministic behavior, honest failure modes, secure boundaries, and evidence that can be independently verified.
 
